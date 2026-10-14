@@ -1,0 +1,13 @@
+{
+  "name": "PilotStartingBalance",
+  "alias": "pilotstartingbalance",
+  "version": "1.0.0",
+  "description": "Admin-controlled starting balances for newly verified phpVMS 7 pilots.",
+  "keywords": ["pilots", "balance", "finance", "registration"],
+  "active": 1,
+  "order": 0,
+  "providers": ["Modules\\PilotStartingBalance\\Providers\\AppServiceProvider"],
+  "aliases": {},
+  "files": [],
+  "requires": []
+}
